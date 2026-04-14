@@ -1,0 +1,302 @@
+{
+  "items": [
+    {
+      "id": 100,
+      "name": "Service Cloud Launch",
+      "group": "Platform Launches",
+      "sm": "FEB",
+      "sy": 2026,
+      "em": "FEB",
+      "ey": 2026,
+      "cost": null,
+      "details": "Initial Service Cloud deployment for case management."
+    },
+    {
+      "id": 101,
+      "name": "SIS MVP Functionality Launch",
+      "group": "Platform Launches",
+      "sm": "JUN",
+      "sy": 2026,
+      "em": "JUN",
+      "ey": 2026,
+      "cost": 530000,
+      "details": "Minimum viable product release of SIS on Salesforce EDU Cloud."
+    },
+    {
+      "id": 102,
+      "name": "Marketing Cloud Launch",
+      "group": "Platform Launches",
+      "sm": "JUN",
+      "sy": 2026,
+      "em": "JUN",
+      "ey": 2026,
+      "cost": 72000,
+      "details": "Marketing Cloud go-live for automated communications."
+    },
+    {
+      "id": 103,
+      "name": "SIS Hypercare and Stabilization",
+      "group": "Platform Launches",
+      "sm": "JUL",
+      "sy": 2026,
+      "em": "SEP",
+      "ey": 2026,
+      "cost": null,
+      "details": "Post-launch stabilization period with dedicated support."
+    },
+    {
+      "id": 104,
+      "name": "Auto-Enroll",
+      "group": "SIS Enhancements",
+      "sm": "JUL",
+      "sy": 2026,
+      "em": "JUL",
+      "ey": 2026,
+      "cost": 45000,
+      "details": "Automated enrollment workflow for program participants."
+    },
+    {
+      "id": 105,
+      "name": "IRB DocuSign Consent",
+      "group": "SIS Enhancements",
+      "sm": "AUG",
+      "sy": 2026,
+      "em": "AUG",
+      "ey": 2026,
+      "cost": null,
+      "details": "IRB consent form integration via DocuSign."
+    },
+    {
+      "id": 106,
+      "name": "7 Additional Program Apps",
+      "group": "SIS Enhancements",
+      "sm": "JUL",
+      "sy": 2026,
+      "em": "SEP",
+      "ey": 2026,
+      "cost": 119000,
+      "details": "Seven new program application forms built in SIS."
+    },
+    {
+      "id": 107,
+      "name": "Stipends",
+      "group": "SIS Enhancements",
+      "sm": "JAN",
+      "sy": 2027,
+      "em": "JAN",
+      "ey": 2027,
+      "cost": 225000,
+      "details": "Stipend tracking and disbursement functionality."
+    },
+    {
+      "id": 108,
+      "name": "ID Checklists - Teacher License #, DCF#",
+      "group": "Portal",
+      "sm": "DEC",
+      "sy": 2026,
+      "em": "DEC",
+      "ey": 2026,
+      "cost": null,
+      "details": "Portal checklists for verifying teacher credentials."
+    },
+    {
+      "id": 109,
+      "name": "Stipend Applications",
+      "group": "Portal",
+      "sm": "JAN",
+      "sy": 2027,
+      "em": "JAN",
+      "ey": 2027,
+      "cost": 225000,
+      "details": "Online stipend application portal for participants."
+    },
+    {
+      "id": 110,
+      "name": "Internal queues",
+      "group": "Service Cloud Expansion",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Queue routing for internal support requests."
+    },
+    {
+      "id": 111,
+      "name": "Demographic Survey Updates",
+      "group": "SIS Enhancements (Future)",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Updates to biographical/demographic survey instruments."
+    },
+    {
+      "id": 112,
+      "name": "Micro-Credential: district comms, advising notes",
+      "group": "Professional Learning",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Communication tools for micro-credential district workflows."
+    },
+    {
+      "id": 113,
+      "name": "Math Implementation: school comms",
+      "group": "Professional Learning",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "School-level communications for math implementation programs."
+    },
+    {
+      "id": 114,
+      "name": "Licenses, security & queue for PIA",
+      "group": "General",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "License management, security config, and PIA queue setup."
+    },
+    {
+      "id": 115,
+      "name": "FTA Inboxes - planned using internal capacity",
+      "group": "Florida Tutoring Advantage",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Dedicated inboxes for FTA built with internal team resources."
+    },
+    {
+      "id": 116,
+      "name": "Vendor communications",
+      "group": "Florida Tutoring Advantage",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Vendor outreach and communication workflows for FTA."
+    },
+    {
+      "id": 117,
+      "name": "Student/participant comms — U18 security",
+      "group": "Florida Tutoring Advantage",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Under-18 compliant communication channels for participants."
+    },
+    {
+      "id": 118,
+      "name": "Regional partner communications",
+      "group": "State Initiatives",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Communication infrastructure for regional state partners."
+    },
+    {
+      "id": 119,
+      "name": "District & school communications",
+      "group": "State Initiatives",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Direct communication channels to districts and schools."
+    },
+    {
+      "id": 120,
+      "name": "Reports & dashboards — cross-functional",
+      "group": "Reports & Dashboards",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Cross-functional reporting and dashboard development."
+    },
+    {
+      "id": 121,
+      "name": "Vendor management",
+      "group": "Contracts & Vendors",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Vendor lifecycle management within Salesforce."
+    },
+    {
+      "id": 122,
+      "name": "Contract management",
+      "group": "Contracts & Vendors",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Contract tracking and renewal management."
+    },
+    {
+      "id": 123,
+      "name": "Call Center",
+      "group": "Telephony",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Integrated call center telephony solution."
+    },
+    {
+      "id": 124,
+      "name": "SMS Messaging",
+      "group": "Telephony",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "SMS/text messaging capabilities for outreach."
+    },
+    {
+      "id": 125,
+      "name": "NWRI Robocall Recruitment",
+      "group": "Telephony",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null,
+      "details": "Automated robocall system for NWRI recruitment."
+    },
+    {
+      "id": 126,
+      "name": "Brightspace Data Integration",
+      "group": "Platform Launches",
+      "sm": "JUN",
+      "sy": 2026,
+      "em": "JUN",
+      "ey": 2026,
+      "cost": 250000,
+      "details": ""
+    }
+  ],
+  "nid": 127
+}
