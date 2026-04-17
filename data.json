@@ -53,7 +53,7 @@
       "em": "JUL",
       "ey": 2026,
       "cost": 45000,
-      "details": "Automated enrollment workflow for program participants."
+      "details": "Needed by 7/15\n\nAutomated enrollment workflow for program participants."
     },
     {
       "id": 105,
@@ -189,7 +189,7 @@
     },
     {
       "id": 117,
-      "name": "Student/participant comms — U18 security",
+      "name": "Student/participant comms â U18 security",
       "group": "Florida Tutoring Advantage",
       "sm": null,
       "sy": null,
@@ -222,7 +222,7 @@
     },
     {
       "id": 120,
-      "name": "Reports & dashboards — cross-functional",
+      "name": "Reports & dashboards â cross-functional",
       "group": "Reports & Dashboards",
       "sm": null,
       "sy": null,
