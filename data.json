@@ -189,7 +189,7 @@
     },
     {
       "id": 117,
-      "name": "Student/participant comms â U18 security",
+      "name": "Student/participant comms Ã¢ÂÂ U18 security",
       "group": "Florida Tutoring Advantage",
       "sm": null,
       "sy": null,
@@ -222,7 +222,7 @@
     },
     {
       "id": 120,
-      "name": "Reports & dashboards â cross-functional",
+      "name": "Reports & dashboards Ã¢ÂÂ cross-functional",
       "group": "Reports & Dashboards",
       "sm": null,
       "sy": null,
@@ -296,7 +296,18 @@
       "ey": 2026,
       "cost": 250000,
       "details": ""
+    },
+    {
+      "id": 127,
+      "name": "LMS Badging",
+      "group": "General",
+      "details": "",
+      "sm": null,
+      "sy": null,
+      "em": null,
+      "ey": null,
+      "cost": null
     }
   ],
-  "nid": 127
+  "nid": 128
 }
