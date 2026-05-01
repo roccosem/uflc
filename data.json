@@ -296,17 +296,6 @@
       "ey": 2026,
       "cost": 250000,
       "details": ""
-    },
-    {
-      "id": 127,
-      "name": "LMS Badging",
-      "group": "General",
-      "details": "",
-      "sm": null,
-      "sy": null,
-      "em": null,
-      "ey": null,
-      "cost": null
     }
   ],
   "nid": 128
